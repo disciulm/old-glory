@@ -1,0 +1,39 @@
+1and1
+
+Customer ID: 252644525 —or— oldgloryskidsteer.com
+password: Timothy49
+
+FTP
+u75169535
+Timothy49
+
+570x290
+
+
+Original Template
+http://wpkuzen.com/html/business/bs-javascript.html#modals
+
+Styles
+http://localhost:8000/bs-base-css.html
+
+Scaffolding:
+http://localhost:8000/bs-scaffolding.html
+
+
+————
+
+
+web.com
+oldgloryskidsteer.com
+bobcat175
+
+ftp
+oldglorydesigner
+bobcat175
+
+460x690
+
+vimeo
+guyemmons@aol.com
+oldglory123
+
