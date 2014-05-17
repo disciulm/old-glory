@@ -44,17 +44,6 @@
       "initialSize" : 3696,
       "fileType" : 8192
     },
-    "\/images\/iconic\/cloud_download.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/cloud_download.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/cloud_download.png",
-      "initialSize" : 3939,
-      "fileType" : 8192
-    },
     "\/images\/image-about-us.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -66,6 +55,17 @@
       "initialSize" : 400709,
       "fileType" : 8192
     },
+    "\/images\/iconic\/cloud_download.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/cloud_download.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/cloud_download.png",
+      "initialSize" : 3939,
+      "fileType" : 8192
+    },
     "\/images\/iconic\/play_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -75,6 +75,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/play_alt.png",
       "initialSize" : 3814,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/cursor.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/cursor.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/cursor.png",
+      "initialSize" : 3585,
       "fileType" : 8192
     },
     "\/sass\/screen.scss" : {
@@ -89,17 +100,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/images\/iconic\/cursor.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/cursor.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/cursor.png",
-      "initialSize" : 3585,
-      "fileType" : 8192
-    },
     "\/images\/iconic\/eyedropper.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -110,17 +110,6 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/eyedropper.png",
       "initialSize" : 3776,
       "fileType" : 8192
-    },
-    "\/images\/Gallery\/fullResImages\/gallery-before-after-01-large.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-before-after-01-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-before-after-01-large.jpg",
-      "initialSize" : 723110,
-      "fileType" : 4096
     },
     "\/images\/prettyPhoto\/facebook\/contentPatternRight.png" : {
       "ignoreWasSetByUser" : 0,
@@ -186,6 +175,28 @@
       "initialSize" : 98118,
       "fileType" : 4096
     },
+    "\/images\/gallery\/thumbnails\/gallery-stone-driveway-after-01-small.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-after-01-small.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-after-01-small.jpg",
+      "initialSize" : 92413,
+      "fileType" : 4096
+    },
+    "\/images\/gallery\/fullResImages\/image-homepage-gallery-thumb-01.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/image-homepage-gallery-thumb-01.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/image-homepage-gallery-thumb-01.jpg",
+      "initialSize" : 118111,
+      "fileType" : 4096
+    },
     "\/images\/iconic\/new_window.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -197,15 +208,15 @@
       "initialSize" : 3362,
       "fileType" : 8192
     },
-    "\/example\/newest6.jpg" : {
+    "\/example\/blog1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/newest6.jpg",
+      "inputAbbreviatedPath" : "\/example\/blog1.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/newest6.jpg",
-      "initialSize" : 112173,
+      "outputAbbreviatedPath" : "\/example\/blog1.jpg",
+      "initialSize" : 144391,
       "fileType" : 4096
     },
     "\/sass\/ie.scss" : {
@@ -220,16 +231,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/images\/iconic\/first.png" : {
+    "\/example\/newest6.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/first.png",
+      "inputAbbreviatedPath" : "\/example\/newest6.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/first.png",
-      "initialSize" : 3482,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/example\/newest6.jpg",
+      "initialSize" : 112173,
+      "fileType" : 4096
     },
     "\/js\/jquery.elastislide.js" : {
       "ignoreWasSetByUser" : 0,
@@ -262,15 +273,26 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/example\/blog1.jpg" : {
+    "\/images\/gallery\/fullResImages\/gallery-stone-driveway-roller-01-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/blog1.jpg",
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-roller-01-large.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/blog1.jpg",
-      "initialSize" : 144391,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-roller-01-large.jpg",
+      "initialSize" : 390561,
+      "fileType" : 4096
+    },
+    "\/images\/gallery\/fullResImages\/gallery-stone-driveway-before-02-large.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-before-02-large.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-before-02-large.jpg",
+      "initialSize" : 417187,
       "fileType" : 4096
     },
     "\/example\/newest5.jpg" : {
@@ -306,15 +328,26 @@
       "initialSize" : 3014,
       "fileType" : 8192
     },
-    "\/images\/iconic\/document_alt_fill.png" : {
+    "\/images\/gallery\/fullResImages\/gallery-after-01-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/document_alt_fill.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-after-01-large.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/document_alt_fill.png",
-      "initialSize" : 3409,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-after-01-large.jpg",
+      "initialSize" : 301296,
+      "fileType" : 4096
+    },
+    "\/images\/iconic\/first.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/first.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/first.png",
+      "initialSize" : 3482,
       "fileType" : 8192
     },
     "\/js\/fakeElement-grid.js" : {
@@ -327,6 +360,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/js\/fakeElement-grid-ck.js",
       "fileType" : 64
+    },
+    "\/images\/iconic\/document_alt_fill.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/document_alt_fill.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/document_alt_fill.png",
+      "initialSize" : 3409,
+      "fileType" : 8192
     },
     "\/example\/newest4.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -350,59 +394,15 @@
       "initialSize" : 714903,
       "fileType" : 8192
     },
-    "\/images\/iconic\/lightbulb.png" : {
+    "\/images\/gallery\/fullResImages\/image01.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/lightbulb.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/image01.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/lightbulb.png",
-      "initialSize" : 3835,
-      "fileType" : 8192
-    },
-    "\/images\/iconic\/cog.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/cog.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/cog.png",
-      "initialSize" : 4032,
-      "fileType" : 8192
-    },
-    "\/example\/newest3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/newest3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/newest3.jpg",
-      "initialSize" : 114670,
-      "fileType" : 4096
-    },
-    "\/images\/Gallery\/thumbnails\/newest7.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest7.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest7.jpg",
-      "initialSize" : 98118,
-      "fileType" : 4096
-    },
-    "\/images\/iconic\/move_alt1.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/move_alt1.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/move_alt1.png",
-      "initialSize" : 3583,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/image01.png",
+      "initialSize" : 363416,
       "fileType" : 8192
     },
     "\/images\/prettyPhoto\/facebook\/btnPrevious.png" : {
@@ -416,6 +416,17 @@
       "initialSize" : 828,
       "fileType" : 8192
     },
+    "\/images\/gallery\/fullResImages\/gallery-before-after-03-large.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-before-after-03-large.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-before-after-03-large.jpg",
+      "initialSize" : 1020400,
+      "fileType" : 4096
+    },
     "\/images\/prettyPhoto\/dark_square\/btnNext.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -426,6 +437,50 @@
       "outputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_square\/btnNext.png",
       "initialSize" : 1411,
       "fileType" : 8192
+    },
+    "\/images\/iconic\/cog.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/cog.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/cog.png",
+      "initialSize" : 4032,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/lightbulb.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/lightbulb.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/lightbulb.png",
+      "initialSize" : 3835,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/move_alt1.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/move_alt1.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/move_alt1.png",
+      "initialSize" : 3583,
+      "fileType" : 8192
+    },
+    "\/example\/newest3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/example\/newest3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/example\/newest3.jpg",
+      "initialSize" : 114670,
+      "fileType" : 4096
     },
     "\/images\/iconic\/arrow_left_alt1.png" : {
       "ignoreWasSetByUser" : 0,
@@ -448,6 +503,17 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/move_alt2.png",
       "initialSize" : 3901,
       "fileType" : 8192
+    },
+    "\/example\/newest2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/example\/newest2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/example\/newest2.jpg",
+      "initialSize" : 245542,
+      "fileType" : 4096
     },
     "\/images\/iconic\/move.png" : {
       "ignoreWasSetByUser" : 0,
@@ -480,17 +546,6 @@
       "initialSize" : 3639,
       "fileType" : 8192
     },
-    "\/example\/newest2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/newest2.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/newest2.jpg",
-      "initialSize" : 245542,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/battery_empty.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -513,15 +568,15 @@
       "outputAbbreviatedPath" : "\/js\/jquery-migrate-1.1.1-ck.js",
       "fileType" : 64
     },
-    "\/example\/slider4.jpg" : {
+    "\/example\/newest1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/slider4.jpg",
+      "inputAbbreviatedPath" : "\/example\/newest1.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/slider4.jpg",
-      "initialSize" : 237233,
+      "outputAbbreviatedPath" : "\/example\/newest1.jpg",
+      "initialSize" : 257630,
       "fileType" : 4096
     },
     "\/bs-base-css.html" : {
@@ -533,15 +588,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/example\/newest1.jpg" : {
+    "\/example\/slider4.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/newest1.jpg",
+      "inputAbbreviatedPath" : "\/example\/slider4.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/newest1.jpg",
-      "initialSize" : 257630,
+      "outputAbbreviatedPath" : "\/example\/slider4.jpg",
+      "initialSize" : 237233,
       "fileType" : 4096
     },
     "\/images\/iconic\/arrow_down.png" : {
@@ -577,17 +632,6 @@
       "initialSize" : 3381,
       "fileType" : 8192
     },
-    "\/images\/iconic\/bolt.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/bolt.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/bolt.png",
-      "initialSize" : 3718,
-      "fileType" : 8192
-    },
     "\/images\/iconic\/plus.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -610,17 +654,6 @@
       "initialSize" : 3566,
       "fileType" : 8192
     },
-    "\/example\/newest0.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/newest0.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/newest0.jpg",
-      "initialSize" : 110615,
-      "fileType" : 4096
-    },
     "\/example\/slider3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -632,16 +665,60 @@
       "initialSize" : 222730,
       "fileType" : 4096
     },
-    "\/images\/icon-site-prep.png" : {
+    "\/images\/gallery\/thumbnails\/image01.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/icon-site-prep.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/image01.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/icon-site-prep.png",
-      "initialSize" : 2413,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/image01.png",
+      "initialSize" : 363416,
       "fileType" : 8192
+    },
+    "\/images\/gallery\/thumbnails\/newest6.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest6.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest6.jpg",
+      "initialSize" : 112173,
+      "fileType" : 4096
+    },
+    "\/images\/iconic\/bolt.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/bolt.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/bolt.png",
+      "initialSize" : 3718,
+      "fileType" : 8192
+    },
+    "\/images\/gallery\/fullResImages\/gallery-stone-driveway-auger-01-large.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-auger-01-large.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-auger-01-large.jpg",
+      "initialSize" : 346600,
+      "fileType" : 4096
+    },
+    "\/example\/newest0.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/example\/newest0.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/example\/newest0.jpg",
+      "initialSize" : 110615,
+      "fileType" : 4096
     },
     "\/phpmailer.php" : {
       "ignoreWasSetByUser" : 0,
@@ -663,17 +740,6 @@
       "initialSize" : 225354,
       "fileType" : 4096
     },
-    "\/images\/iconic\/move_vertical_alt2.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/move_vertical_alt2.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/move_vertical_alt2.png",
-      "initialSize" : 3836,
-      "fileType" : 8192
-    },
     "\/images\/image-services-04.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -683,6 +749,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/image-services-04.png",
       "initialSize" : 120234,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/move_vertical_alt2.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/move_vertical_alt2.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/move_vertical_alt2.png",
+      "initialSize" : 3836,
       "fileType" : 8192
     },
     "\/images\/iconic\/book.png" : {
@@ -696,6 +773,28 @@
       "initialSize" : 3467,
       "fileType" : 8192
     },
+    "\/images\/icon-site-prep.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/icon-site-prep.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/icon-site-prep.png",
+      "initialSize" : 2413,
+      "fileType" : 8192
+    },
+    "\/images\/gallery\/thumbnails\/gallery-stone-driveway-after-02-small.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-after-02-small.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-after-02-small.jpg",
+      "initialSize" : 105285,
+      "fileType" : 4096
+    },
     "\/example\/slider1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -707,16 +806,16 @@
       "initialSize" : 237922,
       "fileType" : 4096
     },
-    "\/images\/iconic\/mic.png" : {
+    "\/images\/gallery\/fullResImages\/gallery-stone-driveway-after-01-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/mic.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-after-01-large.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/mic.png",
-      "initialSize" : 3850,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-after-01-large.jpg",
+      "initialSize" : 357285,
+      "fileType" : 4096
     },
     "\/images\/icon_zoom.png" : {
       "ignoreWasSetByUser" : 0,
@@ -727,6 +826,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/icon_zoom.png",
       "initialSize" : 1726,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/mic.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/mic.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/mic.png",
+      "initialSize" : 3850,
       "fileType" : 8192
     },
     "\/example\/blog3.jpg" : {
@@ -807,17 +917,6 @@
       "initialSize" : 4116,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/fullResImages\/view.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/view.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/view.jpg",
-      "initialSize" : 99008,
-      "fileType" : 4096
-    },
     "\/assets\/450.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -851,17 +950,6 @@
       "outputAbbreviatedPath" : "\/js\/jquery.ui.totop-ck.js",
       "fileType" : 64
     },
-    "\/images\/iconic\/battery_full.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/battery_full.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/battery_full.png",
-      "initialSize" : 3378,
-      "fileType" : 8192
-    },
     "\/images\/iconic\/upload.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -873,27 +961,16 @@
       "initialSize" : 3556,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/newest2.jpg" : {
+    "\/images\/iconic\/battery_full.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest2.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/battery_full.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest2.jpg",
-      "initialSize" : 245542,
-      "fileType" : 4096
-    },
-    "\/images\/Gallery\/fullResImages\/image-homepage-gallery-thumb-01.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/image-homepage-gallery-thumb-01.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/image-homepage-gallery-thumb-01.jpg",
-      "initialSize" : 118111,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/images\/iconic\/battery_full.png",
+      "initialSize" : 3378,
+      "fileType" : 8192
     },
     "\/blog-sidebar-right.html" : {
       "ignoreWasSetByUser" : 0,
@@ -924,17 +1001,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/images\/iconic\/iphone.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/iphone.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/iphone.png",
-      "initialSize" : 3644,
-      "fileType" : 8192
-    },
     "\/js\/main.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -945,17 +1011,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/js\/main-ck.js",
       "fileType" : 64
-    },
-    "\/images\/Gallery\/thumbnails\/gallery-before-after-03-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-before-after-03-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-before-after-03-small.jpg",
-      "initialSize" : 238566,
-      "fileType" : 4096
     },
     "\/js\/sequencejs-options.js" : {
       "ignoreWasSetByUser" : 0,
@@ -977,6 +1032,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/camera.png",
       "initialSize" : 3865,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/iphone.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/iphone.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/iphone.png",
+      "initialSize" : 3644,
       "fileType" : 8192
     },
     "\/images\/iconic\/beaker.png" : {
@@ -1021,17 +1087,6 @@
       "initialSize" : 142,
       "fileType" : 8192
     },
-    "\/images\/iconic\/arrow_down_alt2.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/arrow_down_alt2.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/arrow_down_alt2.png",
-      "initialSize" : 3780,
-      "fileType" : 8192
-    },
     "\/images\/iconic\/pen_alt_stroke.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1041,6 +1096,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/pen_alt_stroke.png",
       "initialSize" : 3630,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/arrow_down_alt2.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/arrow_down_alt2.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/arrow_down_alt2.png",
+      "initialSize" : 3780,
       "fileType" : 8192
     },
     "\/images\/iconic\/right_quote.png" : {
@@ -1065,15 +1131,15 @@
       "outputAbbreviatedPath" : "\/js\/jflickrfeed.min-ck.js",
       "fileType" : 64
     },
-    "\/images\/Gallery\/fullResImages\/gallery-after-01-large.jpg" : {
+    "\/images\/gallery\/thumbnails\/newest1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-after-01-large.jpg",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest1.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-after-01-large.jpg",
-      "initialSize" : 301296,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest1.jpg",
+      "initialSize" : 257630,
       "fileType" : 4096
     },
     "\/js\/jquery.form.js" : {
@@ -1087,16 +1153,16 @@
       "outputAbbreviatedPath" : "\/js\/jquery.form-ck.js",
       "fileType" : 64
     },
-    "\/images\/iconic\/book_alt.png" : {
+    "\/images\/gallery\/fullResImages\/gallery-stone-01-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/book_alt.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-01-large.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/book_alt.png",
-      "initialSize" : 3498,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-01-large.jpg",
+      "initialSize" : 353387,
+      "fileType" : 4096
     },
     "\/images\/iconic\/chat_alt_fill.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1120,25 +1186,16 @@
       "initialSize" : 3331,
       "fileType" : 8192
     },
-    "\/images\/iconic\/last.png" : {
+    "\/images\/iconic\/book_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/last.png",
+      "inputAbbreviatedPath" : "\/images\/iconic\/book_alt.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/last.png",
-      "initialSize" : 3518,
+      "outputAbbreviatedPath" : "\/images\/iconic\/book_alt.png",
+      "initialSize" : 3498,
       "fileType" : 8192
-    },
-    "\/css\/fonts.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/fonts.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/images\/iconic\/map_pin_fill.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1151,17 +1208,6 @@
       "initialSize" : 3817,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-auger-01-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-auger-01-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-auger-01-small.jpg",
-      "initialSize" : 86470,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/arrow_right_alt1.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1171,6 +1217,26 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/arrow_right_alt1.png",
       "initialSize" : 3811,
+      "fileType" : 8192
+    },
+    "\/css\/fonts.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/fonts.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/images\/iconic\/last.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/last.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/last.png",
+      "initialSize" : 3518,
       "fileType" : 8192
     },
     "\/images\/iconic\/arrow_up_alt2.png" : {
@@ -1193,27 +1259,27 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/images\/iconic\/sun_stroke.png" : {
+    "\/images\/gallery\/thumbnails\/gallery-stone-driveway-roller-01-small.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/sun_stroke.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-roller-01-small.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/sun_stroke.png",
-      "initialSize" : 3849,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-roller-01-small.jpg",
+      "initialSize" : 105184,
+      "fileType" : 4096
     },
-    "\/images\/iconic\/question_mark.png" : {
+    "\/images\/gallery\/fullResImages\/gallery-site-prep-01-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/question_mark.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-site-prep-01-large.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/question_mark.png",
-      "initialSize" : 3780,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-site-prep-01-large.jpg",
+      "initialSize" : 263333,
+      "fileType" : 4096
     },
     "\/images\/iconic\/volume.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1259,17 +1325,6 @@
       "initialSize" : 46687,
       "fileType" : 4096
     },
-    "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-before-02-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-before-02-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-before-02-small.jpg",
-      "initialSize" : 111732,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/stop.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1281,6 +1336,17 @@
       "initialSize" : 3321,
       "fileType" : 8192
     },
+    "\/images\/iconic\/question_mark.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/question_mark.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/question_mark.png",
+      "initialSize" : 3780,
+      "fileType" : 8192
+    },
     "\/images\/iconic\/chart.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1290,6 +1356,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/chart.png",
       "initialSize" : 3863,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/sun_stroke.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/sun_stroke.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/sun_stroke.png",
+      "initialSize" : 3849,
       "fileType" : 8192
     },
     "\/images\/iconic\/arrow_left.png" : {
@@ -1325,28 +1402,6 @@
       "initialSize" : 3663,
       "fileType" : 8192
     },
-    "\/example\/latest7.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/latest7.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/latest7.jpg",
-      "initialSize" : 58101,
-      "fileType" : 4096
-    },
-    "\/images\/Gallery\/thumbnails\/gallery-before-after-02-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-before-after-02-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-before-after-02-small.jpg",
-      "initialSize" : 177158,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/at.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1358,16 +1413,16 @@
       "initialSize" : 4195,
       "fileType" : 8192
     },
-    "\/images\/iconic\/play.png" : {
+    "\/example\/latest7.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/play.png",
+      "inputAbbreviatedPath" : "\/example\/latest7.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/play.png",
-      "initialSize" : 3480,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/example\/latest7.jpg",
+      "initialSize" : 58101,
+      "fileType" : 4096
     },
     "\/example\/sidebar4.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1380,16 +1435,16 @@
       "initialSize" : 4356,
       "fileType" : 4096
     },
-    "\/example\/latest6.jpg" : {
+    "\/images\/iconic\/play.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/latest6.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/play.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/latest6.jpg",
-      "initialSize" : 76437,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/images\/iconic\/play.png",
+      "initialSize" : 3480,
+      "fileType" : 8192
     },
     "\/images\/iconic\/curved_arrow.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1401,6 +1456,17 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/curved_arrow.png",
       "initialSize" : 3749,
       "fileType" : 8192
+    },
+    "\/example\/latest6.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/example\/latest6.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/example\/latest6.jpg",
+      "initialSize" : 76437,
+      "fileType" : 4096
     },
     "\/images\/iconic\/arrow_up_alt1.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1435,17 +1501,6 @@
       "initialSize" : 4090,
       "fileType" : 8192
     },
-    "\/images\/iconic\/move_horizontal_alt1.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/move_horizontal_alt1.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/move_horizontal_alt1.png",
-      "initialSize" : 3461,
-      "fileType" : 8192
-    },
     "\/example\/latest5.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1457,15 +1512,15 @@
       "initialSize" : 62955,
       "fileType" : 4096
     },
-    "\/images\/iconic\/fullscreen.png" : {
+    "\/images\/iconic\/move_horizontal_alt1.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/fullscreen.png",
+      "inputAbbreviatedPath" : "\/images\/iconic\/move_horizontal_alt1.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/fullscreen.png",
-      "initialSize" : 3646,
+      "outputAbbreviatedPath" : "\/images\/iconic\/move_horizontal_alt1.png",
+      "initialSize" : 3461,
       "fileType" : 8192
     },
     "\/images\/iconic\/arrow_right.png" : {
@@ -1479,16 +1534,16 @@
       "initialSize" : 3560,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-after-01-small.jpg" : {
+    "\/images\/iconic\/fullscreen.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-after-01-small.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/fullscreen.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-after-01-small.jpg",
-      "initialSize" : 92413,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/images\/iconic\/fullscreen.png",
+      "initialSize" : 3646,
+      "fileType" : 8192
     },
     "\/example\/latest4.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1521,17 +1576,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/images\/iconic\/movie.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/movie.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/movie.png",
-      "initialSize" : 3588,
-      "fileType" : 8192
-    },
     "\/images\/iconic\/plus_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1541,6 +1585,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/plus_alt.png",
       "initialSize" : 3759,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/movie.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/movie.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/movie.png",
+      "initialSize" : 3588,
       "fileType" : 8192
     },
     "\/example\/latest3.jpg" : {
@@ -1576,28 +1631,6 @@
       "initialSize" : 242867,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/newest5.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest5.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest5.jpg",
-      "initialSize" : 159189,
-      "fileType" : 4096
-    },
-    "\/images\/iconic\/calendar.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/calendar.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/calendar.png",
-      "initialSize" : 3384,
-      "fileType" : 8192
-    },
     "\/images\/image-homepage-gallery-thumb-03.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1607,6 +1640,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/image-homepage-gallery-thumb-03.jpg",
       "initialSize" : 84685,
+      "fileType" : 4096
+    },
+    "\/images\/gallery\/thumbnails\/gallery-equipment-tiller-01-small.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-equipment-tiller-01-small.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-equipment-tiller-01-small.jpg",
+      "initialSize" : 70252,
       "fileType" : 4096
     },
     "\/example\/latest2.jpg" : {
@@ -1620,17 +1664,6 @@
       "initialSize" : 112708,
       "fileType" : 4096
     },
-    "\/images\/Gallery\/thumbnails\/gallery-before-after-01-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-before-after-01-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-before-after-01-small.jpg",
-      "initialSize" : 195498,
-      "fileType" : 4096
-    },
     "\/images\/carousel\/promo02.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1640,17 +1673,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/carousel\/promo02.png",
       "initialSize" : 199443,
-      "fileType" : 8192
-    },
-    "\/images\/iconic\/check.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/check.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/check.png",
-      "initialSize" : 3528,
       "fileType" : 8192
     },
     "\/images\/iconic\/list.png" : {
@@ -1664,17 +1686,6 @@
       "initialSize" : 3397,
       "fileType" : 8192
     },
-    "\/images\/carousel\/promo03.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/carousel\/promo03.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/carousel\/promo03.png",
-      "initialSize" : 339962,
-      "fileType" : 8192
-    },
     "\/images\/prettyPhoto\/light_rounded\/btnNext.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1686,6 +1697,50 @@
       "initialSize" : 1411,
       "fileType" : 8192
     },
+    "\/images\/gallery\/thumbnails\/gallery-stone-01-small.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-01-small.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-01-small.jpg",
+      "initialSize" : 98522,
+      "fileType" : 4096
+    },
+    "\/images\/carousel\/promo03.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/carousel\/promo03.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/carousel\/promo03.png",
+      "initialSize" : 339962,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/calendar.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/calendar.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/calendar.png",
+      "initialSize" : 3384,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/check.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/check.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/check.png",
+      "initialSize" : 3528,
+      "fileType" : 8192
+    },
     "\/portfolio.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1695,15 +1750,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/example\/latest1.jpg" : {
+    "\/images\/gallery\/fullResImages\/gallery-before-after-01-large.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/latest1.jpg",
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-before-after-01-large.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/latest1.jpg",
-      "initialSize" : 118111,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-before-after-01-large.jpg",
+      "initialSize" : 723110,
       "fileType" : 4096
     },
     "\/images\/carousel\/promo04.png" : {
@@ -1728,6 +1783,17 @@
       "initialSize" : 3788,
       "fileType" : 8192
     },
+    "\/example\/latest1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/example\/latest1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/example\/latest1.jpg",
+      "initialSize" : 118111,
+      "fileType" : 4096
+    },
     "\/images\/iconic\/check_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1750,6 +1816,17 @@
       "initialSize" : 3699,
       "fileType" : 8192
     },
+    "\/images\/gallery\/thumbnails\/newest4.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest4.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest4.jpg",
+      "initialSize" : 78870,
+      "fileType" : 4096
+    },
     "\/images\/iconic\/calendar_alt_fill.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1760,17 +1837,6 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/calendar_alt_fill.png",
       "initialSize" : 3523,
       "fileType" : 8192
-    },
-    "\/images\/Gallery\/fullResImages\/gallery-before-after-02-large.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-before-after-02-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-before-after-02-large.jpg",
-      "initialSize" : 680187,
-      "fileType" : 4096
     },
     "\/js\/ajax-mail.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1827,17 +1893,6 @@
       "initialSize" : 12799,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/gallery-stone-01-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-01-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-01-small.jpg",
-      "initialSize" : 98522,
-      "fileType" : 4096
-    },
     "\/bs-javascript.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1869,6 +1924,17 @@
       "outputAbbreviatedPath" : "\/js\/less-1.3.3.min-ck.js",
       "fileType" : 64
     },
+    "\/images\/iconic\/target.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/target.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/target.png",
+      "initialSize" : 4235,
+      "fileType" : 8192
+    },
     "\/images\/fi-facebook.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1880,15 +1946,15 @@
       "initialSize" : 945,
       "fileType" : 8192
     },
-    "\/images\/iconic\/target.png" : {
+    "\/images\/iconic\/comment_stroke.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/target.png",
+      "inputAbbreviatedPath" : "\/images\/iconic\/comment_stroke.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/target.png",
-      "initialSize" : 4235,
+      "outputAbbreviatedPath" : "\/images\/iconic\/comment_stroke.png",
+      "initialSize" : 3889,
       "fileType" : 8192
     },
     "\/images\/quote-arrow.png" : {
@@ -1902,26 +1968,15 @@
       "initialSize" : 176,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-before-02-large.jpg" : {
+    "\/images\/iconic\/fork.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-before-02-large.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/fork.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-before-02-large.jpg",
-      "initialSize" : 417187,
-      "fileType" : 4096
-    },
-    "\/images\/iconic\/comment_stroke.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/comment_stroke.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/comment_stroke.png",
-      "initialSize" : 3889,
+      "outputAbbreviatedPath" : "\/images\/iconic\/fork.png",
+      "initialSize" : 3690,
       "fileType" : 8192
     },
     "\/images\/iconic\/aperture_alt.png" : {
@@ -1933,17 +1988,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/aperture_alt.png",
       "initialSize" : 3974,
-      "fileType" : 8192
-    },
-    "\/images\/iconic\/fork.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/fork.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/fork.png",
-      "initialSize" : 3690,
       "fileType" : 8192
     },
     "\/images\/iconic\/arrow_up.png" : {
@@ -1967,17 +2011,6 @@
       "outputAbbreviatedPath" : "\/images\/apple-touch-icon-72-precomposed.png",
       "initialSize" : 5681,
       "fileType" : 8192
-    },
-    "\/images\/Gallery\/thumbnails\/newest0.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest0.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest0.jpg",
-      "initialSize" : 110615,
-      "fileType" : 4096
     },
     "\/images\/iconic\/rain.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2067,28 +2100,6 @@
       "initialSize" : 4026,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/newest8.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest8.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest8.jpg",
-      "initialSize" : 62213,
-      "fileType" : 4096
-    },
-    "\/images\/Gallery\/thumbnails\/gallery-site-prep-01-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-site-prep-01-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-site-prep-01-small.jpg",
-      "initialSize" : 344309,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/key_stroke.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2142,6 +2153,17 @@
       "outputAbbreviatedPath" : "\/js\/superfish-ck.js",
       "fileType" : 64
     },
+    "\/images\/gallery\/thumbnails\/newest7.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest7.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest7.jpg",
+      "initialSize" : 98118,
+      "fileType" : 4096
+    },
     "\/sass\/style.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2154,16 +2176,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/images\/Gallery\/fullResImages\/gallery-stone-01-large.jpg" : {
+    "\/contact.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-01-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-01-large.jpg",
-      "initialSize" : 353387,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/contact.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/iconic\/arrow_right_alt2.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2186,15 +2206,6 @@
       "outputAbbreviatedPath" : "\/images\/image-services-01.png",
       "initialSize" : 88184,
       "fileType" : 8192
-    },
-    "\/contact.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/contact.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/images\/apple-touch-icon-114-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2227,6 +2238,15 @@
       "initialSize" : 355,
       "fileType" : 8192
     },
+    "\/css\/screen.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/screen.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/images\/bt-prev.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2237,15 +2257,6 @@
       "outputAbbreviatedPath" : "\/images\/bt-prev.png",
       "initialSize" : 1135,
       "fileType" : 8192
-    },
-    "\/css\/screen.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/screen.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/images\/search-bt.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2258,16 +2269,14 @@
       "initialSize" : 1210,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-after-02-small.jpg" : {
+    "\/css\/sequencejs.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-after-02-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-after-02-small.jpg",
-      "initialSize" : 105285,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/css\/sequencejs.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/css\/font-awesome.min.css" : {
       "ignoreWasSetByUser" : 0,
@@ -2275,15 +2284,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/css\/font-awesome.min.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/css\/sequencejs.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/sequencejs.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
@@ -2298,39 +2298,6 @@
       "initialSize" : 3770,
       "fileType" : 8192
     },
-    "\/images\/iconic\/rss.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/rss.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/rss.png",
-      "initialSize" : 4194,
-      "fileType" : 8192
-    },
-    "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-roller-01-large.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-roller-01-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-roller-01-large.jpg",
-      "initialSize" : 390561,
-      "fileType" : 4096
-    },
-    "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-after-02-large.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-after-02-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-after-02-large.jpg",
-      "initialSize" : 384063,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/loop_alt1.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2342,14 +2309,27 @@
       "initialSize" : 3783,
       "fileType" : 8192
     },
-    "\/services.html" : {
+    "\/images\/iconic\/rss.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/services.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/images\/iconic\/rss.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/rss.png",
+      "initialSize" : 4194,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/fullscreen_exit_alt.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit_alt.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit_alt.png",
+      "initialSize" : 3708,
+      "fileType" : 8192
     },
     "\/images\/iconic\/loop_alt2.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2371,36 +2351,25 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
     },
-    "\/font-icons.html" : {
+    "\/images\/iconic\/key_fill.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/font-icons.html",
+      "inputAbbreviatedPath" : "\/images\/iconic\/key_fill.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/key_fill.png",
+      "initialSize" : 3617,
+      "fileType" : 8192
+    },
+    "\/services.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/services.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/images\/iconic\/fullscreen_exit_alt.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit_alt.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit_alt.png",
-      "initialSize" : 3708,
-      "fileType" : 8192
-    },
-    "\/images\/prettyPhoto\/light_square\/btnPrevious.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/light_square\/btnPrevious.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/light_square\/btnPrevious.png",
-      "initialSize" : 1442,
-      "fileType" : 8192
     },
     "\/images\/iconic\/loop_alt3.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2413,6 +2382,17 @@
       "initialSize" : 3695,
       "fileType" : 8192
     },
+    "\/images\/gallery\/thumbnails\/gallery-after-01-small.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-after-01-small.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-after-01-small.jpg",
+      "initialSize" : 86157,
+      "fileType" : 4096
+    },
     "\/images\/prettyPhoto\/light_square\/btnNext.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2424,15 +2404,15 @@
       "initialSize" : 1411,
       "fileType" : 8192
     },
-    "\/images\/iconic\/key_fill.png" : {
+    "\/images\/prettyPhoto\/light_square\/btnPrevious.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/key_fill.png",
+      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/light_square\/btnPrevious.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/key_fill.png",
-      "initialSize" : 3617,
+      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/light_square\/btnPrevious.png",
+      "initialSize" : 1442,
       "fileType" : 8192
     },
     "\/images\/iconic\/comment_fill.png" : {
@@ -2457,16 +2437,14 @@
       "initialSize" : 3719,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/newest3.jpg" : {
+    "\/font-icons.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest3.jpg",
-      "initialSize" : 114670,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/font-icons.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/iconic\/tag_fill.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2543,6 +2521,17 @@
       "initialSize" : 4018,
       "fileType" : 8192
     },
+    "\/images\/gallery\/fullResImages\/view.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/view.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/view.jpg",
+      "initialSize" : 99008,
+      "fileType" : 4096
+    },
     "\/images\/iconic\/book_alt2.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2553,39 +2542,6 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/book_alt2.png",
       "initialSize" : 3845,
       "fileType" : 8192
-    },
-    "\/images\/prettyPhoto\/dark_rounded\/contentPattern.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
-      "initialSize" : 130,
-      "fileType" : 8192
-    },
-    "\/assets\/600.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/600.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/600.jpg",
-      "initialSize" : 124221,
-      "fileType" : 4096
-    },
-    "\/example\/sidebar3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/example\/sidebar3.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/example\/sidebar3.jpg",
-      "initialSize" : 4828,
-      "fileType" : 4096
     },
     "\/example\/blog2.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2598,57 +2554,26 @@
       "initialSize" : 190954,
       "fileType" : 4096
     },
-    "\/images\/iconic\/image.png" : {
+    "\/images\/prettyPhoto\/dark_rounded\/contentPattern.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/image.png",
+      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/image.png",
-      "initialSize" : 3431,
+      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/contentPattern.png",
+      "initialSize" : 130,
       "fileType" : 8192
     },
-    "\/images\/iconic\/map_pin_stroke.png" : {
+    "\/example\/sidebar3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/map_pin_stroke.png",
+      "inputAbbreviatedPath" : "\/example\/sidebar3.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/map_pin_stroke.png",
-      "initialSize" : 3935,
-      "fileType" : 8192
-    },
-    "\/images\/iconic\/fullscreen_exit.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit.png",
-      "initialSize" : 3637,
-      "fileType" : 8192
-    },
-    "\/css\/prettyPhoto.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/prettyPhoto.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-roller-01-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-roller-01-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-stone-driveway-roller-01-small.jpg",
-      "initialSize" : 105184,
+      "outputAbbreviatedPath" : "\/example\/sidebar3.jpg",
+      "initialSize" : 4828,
       "fileType" : 4096
     },
     "\/images\/iconic\/moon_stroke.png" : {
@@ -2662,6 +2587,72 @@
       "initialSize" : 4067,
       "fileType" : 8192
     },
+    "\/images\/iconic\/image.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/image.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/image.png",
+      "initialSize" : 3431,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/fullscreen_exit.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/fullscreen_exit.png",
+      "initialSize" : 3637,
+      "fileType" : 8192
+    },
+    "\/images\/gallery\/thumbnails\/newest2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest2.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest2.jpg",
+      "initialSize" : 245542,
+      "fileType" : 4096
+    },
+    "\/images\/gallery\/fullResImages\/gallery-stone-driveway-after-02-large.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-after-02-large.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-stone-driveway-after-02-large.jpg",
+      "initialSize" : 384063,
+      "fileType" : 4096
+    },
+    "\/images\/iconic\/map_pin_stroke.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/map_pin_stroke.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/map_pin_stroke.png",
+      "initialSize" : 3935,
+      "fileType" : 8192
+    },
+    "\/assets\/600.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/600.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/600.jpg",
+      "initialSize" : 124221,
+      "fileType" : 4096
+    },
     "\/images\/apple-touch-icon-144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2672,6 +2663,15 @@
       "outputAbbreviatedPath" : "\/images\/apple-touch-icon-144-precomposed.png",
       "initialSize" : 16780,
       "fileType" : 8192
+    },
+    "\/css\/prettyPhoto.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/prettyPhoto.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/gallery.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2692,17 +2692,6 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/sun_fill.png",
       "initialSize" : 3728,
       "fileType" : 8192
-    },
-    "\/images\/Gallery\/thumbnails\/gallery-after-01-small.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-after-01-small.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-after-01-small.jpg",
-      "initialSize" : 86157,
-      "fileType" : 4096
     },
     "\/images\/iconic\/steering_wheel.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2768,17 +2757,6 @@
       "initialSize" : 1000,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/fullResImages\/gallery-site-prep-01-large.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-site-prep-01-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-site-prep-01-large.jpg",
-      "initialSize" : 263333,
-      "fileType" : 4096
-    },
     "\/images\/bt-next.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2822,6 +2800,17 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/brush_alt.png",
       "initialSize" : 3659,
       "fileType" : 8192
+    },
+    "\/images\/gallery\/thumbnails\/image-homepage-gallery-thumb-01.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/image-homepage-gallery-thumb-01.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/image-homepage-gallery-thumb-01.jpg",
+      "initialSize" : 118111,
+      "fileType" : 4096
     },
     "\/js\/sequence.jquery-min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2900,15 +2889,15 @@
       "initialSize" : 3928,
       "fileType" : 8192
     },
-    "\/images\/iconic\/brush.png" : {
+    "\/images\/logo-footer.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/brush.png",
+      "inputAbbreviatedPath" : "\/images\/logo-footer.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/brush.png",
-      "initialSize" : 3717,
+      "outputAbbreviatedPath" : "\/images\/logo-footer.png",
+      "initialSize" : 6518,
       "fileType" : 8192
     },
     "\/images\/iconic\/award.png" : {
@@ -2920,6 +2909,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/award.png",
       "initialSize" : 3605,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/brush.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/brush.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/brush.png",
+      "initialSize" : 3717,
       "fileType" : 8192
     },
     "\/images\/iconic\/download.png" : {
@@ -2944,17 +2944,6 @@
       "initialSize" : 142,
       "fileType" : 8192
     },
-    "\/images\/logo-footer.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/logo-footer.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/logo-footer.png",
-      "initialSize" : 6518,
-      "fileType" : 8192
-    },
     "\/full-width.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2964,26 +2953,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/images\/Gallery\/thumbnails\/newest6.jpg" : {
+    "\/images\/iconic\/star.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest6.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/star.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest6.jpg",
-      "initialSize" : 112173,
-      "fileType" : 4096
-    },
-    "\/images\/Gallery\/thumbnails\/image01.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/image01.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/image01.png",
-      "initialSize" : 363416,
+      "outputAbbreviatedPath" : "\/images\/iconic\/star.png",
+      "initialSize" : 3800,
       "fileType" : 8192
     },
     "\/images\/prettyPhoto\/facebook\/sprite.png" : {
@@ -3019,17 +2997,6 @@
       "initialSize" : 196109,
       "fileType" : 8192
     },
-    "\/images\/iconic\/star.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/star.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/star.png",
-      "initialSize" : 3800,
-      "fileType" : 8192
-    },
     "\/images\/image-homepage-gallery-thumb-01.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3039,6 +3006,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/image-homepage-gallery-thumb-01.jpg",
       "initialSize" : 118111,
+      "fileType" : 4096
+    },
+    "\/images\/gallery\/fullResImages\/gallery-before-after-02-large.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-before-after-02-large.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-before-after-02-large.jpg",
+      "initialSize" : 680187,
       "fileType" : 4096
     },
     "\/images\/avatar.png" : {
@@ -3085,15 +3063,6 @@
       "outputAbbreviatedPath" : "\/js\/bootstrap.min-ck.js",
       "fileType" : 64
     },
-    "\/404.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/404.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/images\/iconic\/chart_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3104,6 +3073,15 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/chart_alt.png",
       "initialSize" : 3836,
       "fileType" : 8192
+    },
+    "\/404.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/404.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/images\/iconic\/trash_stroke.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3125,17 +3103,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/images\/Gallery\/fullResImages\/gallery-before-after-03-large.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-before-after-03-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-before-after-03-large.jpg",
-      "initialSize" : 1020400,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/fullscreen_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3147,16 +3114,16 @@
       "initialSize" : 3675,
       "fileType" : 8192
     },
-    "\/images\/iconic\/cloud_upload.png" : {
+    "\/images\/gallery\/thumbnails\/newest5.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/cloud_upload.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest5.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/cloud_upload.png",
-      "initialSize" : 3955,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest5.jpg",
+      "initialSize" : 159189,
+      "fileType" : 4096
     },
     "\/images\/iconic\/eject.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3167,6 +3134,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/eject.png",
       "initialSize" : 3541,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/cloud_upload.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/cloud_upload.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/cloud_upload.png",
+      "initialSize" : 3955,
       "fileType" : 8192
     },
     "\/images\/iconic\/volume_mute.png" : {
@@ -3232,17 +3210,6 @@
       "inputAbbreviatedPath" : "\/portfolio-single.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/images\/Gallery\/fullResImages\/image01.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/image01.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/image01.png",
-      "initialSize" : 363416,
-      "fileType" : 8192
     },
     "\/images\/prettyPhoto\/light_rounded\/btnPrevious.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3341,16 +3308,16 @@
       "initialSize" : 3816,
       "fileType" : 8192
     },
-    "\/js\/jquery.prettyPhoto.js" : {
+    "\/images\/bslash.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/jquery.prettyPhoto.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/jquery.prettyPhoto-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/images\/bslash.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/bslash.jpg",
+      "initialSize" : 341,
+      "fileType" : 4096
     },
     "\/images\/iconic\/layers_alt.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3363,16 +3330,27 @@
       "initialSize" : 3548,
       "fileType" : 8192
     },
-    "\/images\/bslash.jpg" : {
+    "\/images\/gallery\/thumbnails\/gallery-before-after-03-small.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/bslash.jpg",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-before-after-03-small.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/bslash.jpg",
-      "initialSize" : 341,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-before-after-03-small.jpg",
+      "initialSize" : 238566,
       "fileType" : 4096
+    },
+    "\/js\/jquery.prettyPhoto.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/jquery.prettyPhoto.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/jquery.prettyPhoto-ck.js",
+      "fileType" : 64
     },
     "\/images\/iconic\/comment_alt2_stroke.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3385,37 +3363,26 @@
       "initialSize" : 3983,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/newest1.jpg" : {
+    "\/images\/gallery\/thumbnails\/gallery-before-after-01-small.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest1.jpg",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-before-after-01-small.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest1.jpg",
-      "initialSize" : 257630,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-before-after-01-small.jpg",
+      "initialSize" : 195498,
       "fileType" : 4096
     },
-    "\/images\/Gallery\/fullResImages\/gallery-equipment-tiller-01-large.jpg" : {
+    "\/images\/iconic\/pen.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-equipment-tiller-01-large.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/pen.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-equipment-tiller-01-large.jpg",
-      "initialSize" : 230635,
-      "fileType" : 4096
-    },
-    "\/images\/iconic\/pilcrow.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/pilcrow.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/pilcrow.png",
-      "initialSize" : 3471,
+      "outputAbbreviatedPath" : "\/images\/iconic\/pen.png",
+      "initialSize" : 3610,
       "fileType" : 8192
     },
     "\/images\/prettyPhoto\/light_square\/sprite.png" : {
@@ -3429,15 +3396,15 @@
       "initialSize" : 3507,
       "fileType" : 8192
     },
-    "\/images\/iconic\/pen.png" : {
+    "\/images\/iconic\/pilcrow.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/pen.png",
+      "inputAbbreviatedPath" : "\/images\/iconic\/pilcrow.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/pen.png",
-      "initialSize" : 3610,
+      "outputAbbreviatedPath" : "\/images\/iconic\/pilcrow.png",
+      "initialSize" : 3471,
       "fileType" : 8192
     },
     "\/images\/iconic\/share.png" : {
@@ -3450,6 +3417,17 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/share.png",
       "initialSize" : 3860,
       "fileType" : 8192
+    },
+    "\/images\/gallery\/thumbnails\/gallery-site-prep-01-small.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-site-prep-01-small.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-site-prep-01-small.jpg",
+      "initialSize" : 344309,
+      "fileType" : 4096
     },
     "\/images\/iconic\/reload.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3473,6 +3451,15 @@
       "initialSize" : 3580,
       "fileType" : 8192
     },
+    "\/price-table.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/price-table.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/images\/iconic\/rss_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3483,15 +3470,6 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/rss_alt.png",
       "initialSize" : 4296,
       "fileType" : 8192
-    },
-    "\/price-table.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/price-table.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/images\/iconic\/lock_fill.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3526,6 +3504,17 @@
       "initialSize" : 114889,
       "fileType" : 8192
     },
+    "\/images\/gallery\/thumbnails\/newest0.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest0.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest0.jpg",
+      "initialSize" : 110615,
+      "fileType" : 4096
+    },
     "\/images\/arrow-slider-right.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3548,15 +3537,15 @@
       "initialSize" : 4093,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/image-homepage-gallery-thumb-01.jpg" : {
+    "\/images\/gallery\/thumbnails\/gallery-before-after-02-small.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/image-homepage-gallery-thumb-01.jpg",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-before-after-02-small.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/image-homepage-gallery-thumb-01.jpg",
-      "initialSize" : 118111,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-before-after-02-small.jpg",
+      "initialSize" : 177158,
       "fileType" : 4096
     },
     "\/images\/iconic\/box.png" : {
@@ -3570,15 +3559,15 @@
       "initialSize" : 3432,
       "fileType" : 8192
     },
-    "\/images\/iconic\/layers.png" : {
+    "\/images\/iconic\/aperture.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/layers.png",
+      "inputAbbreviatedPath" : "\/images\/iconic\/aperture.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/layers.png",
-      "initialSize" : 3498,
+      "outputAbbreviatedPath" : "\/images\/iconic\/aperture.png",
+      "initialSize" : 4298,
       "fileType" : 8192
     },
     "\/images\/prettyPhoto\/default\/sprite_x.png" : {
@@ -3592,15 +3581,15 @@
       "initialSize" : 1097,
       "fileType" : 8192
     },
-    "\/images\/iconic\/aperture.png" : {
+    "\/images\/iconic\/layers.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/aperture.png",
+      "inputAbbreviatedPath" : "\/images\/iconic\/layers.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/aperture.png",
-      "initialSize" : 4298,
+      "outputAbbreviatedPath" : "\/images\/iconic\/layers.png",
+      "initialSize" : 3498,
       "fileType" : 8192
     },
     "\/images\/iconic\/clock.png" : {
@@ -3625,6 +3614,17 @@
       "initialSize" : 1305,
       "fileType" : 8192
     },
+    "\/images\/gallery\/fullResImages\/gallery-equipment-tiller-01-large.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-equipment-tiller-01-large.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/fullResImages\/gallery-equipment-tiller-01-large.jpg",
+      "initialSize" : 230635,
+      "fileType" : 4096
+    },
     "\/images\/iconic\/move_horizontal.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3634,6 +3634,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/move_horizontal.png",
       "initialSize" : 3437,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/document_stroke.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/document_stroke.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/document_stroke.png",
+      "initialSize" : 3850,
       "fileType" : 8192
     },
     "\/images\/iconic\/undo.png" : {
@@ -3647,16 +3658,16 @@
       "initialSize" : 3897,
       "fileType" : 8192
     },
-    "\/images\/iconic\/document_stroke.png" : {
+    "\/images\/gallery\/thumbnails\/newest8.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/document_stroke.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest8.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/document_stroke.png",
-      "initialSize" : 3850,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest8.jpg",
+      "initialSize" : 62213,
+      "fileType" : 4096
     },
     "\/images\/prettyPhoto\/dark_rounded\/sprite.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3691,26 +3702,26 @@
       "initialSize" : 10759,
       "fileType" : 8192
     },
-    "\/images\/prettyPhoto\/dark_rounded\/btnNext.png" : {
+    "\/images\/gallery\/thumbnails\/gallery-stone-driveway-before-02-small.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-before-02-small.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
-      "initialSize" : 1411,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-before-02-small.jpg",
+      "initialSize" : 111732,
+      "fileType" : 4096
     },
-    "\/images\/iconic\/x.png" : {
+    "\/images\/iconic\/minus_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/x.png",
+      "inputAbbreviatedPath" : "\/images\/iconic\/minus_alt.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/x.png",
-      "initialSize" : 3603,
+      "outputAbbreviatedPath" : "\/images\/iconic\/minus_alt.png",
+      "initialSize" : 3747,
       "fileType" : 8192
     },
     "\/images\/iconic\/heart_fill.png" : {
@@ -3724,15 +3735,15 @@
       "initialSize" : 3825,
       "fileType" : 8192
     },
-    "\/images\/fi-twitter.png" : {
+    "\/images\/prettyPhoto\/dark_rounded\/btnNext.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/fi-twitter.png",
+      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/fi-twitter.png",
-      "initialSize" : 1252,
+      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/dark_rounded\/btnNext.png",
+      "initialSize" : 1411,
       "fileType" : 8192
     },
     "\/images\/icon-skidsteer.png" : {
@@ -3746,15 +3757,26 @@
       "initialSize" : 2507,
       "fileType" : 8192
     },
-    "\/images\/iconic\/minus_alt.png" : {
+    "\/images\/fi-twitter.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/minus_alt.png",
+      "inputAbbreviatedPath" : "\/images\/fi-twitter.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/minus_alt.png",
-      "initialSize" : 3747,
+      "outputAbbreviatedPath" : "\/images\/fi-twitter.png",
+      "initialSize" : 1252,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/x.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/x.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/x.png",
+      "initialSize" : 3603,
       "fileType" : 8192
     },
     "\/images\/icon_link.png" : {
@@ -3812,17 +3834,6 @@
       "initialSize" : 3696,
       "fileType" : 8192
     },
-    "\/images\/iconic\/article.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/article.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/article.png",
-      "initialSize" : 3389,
-      "fileType" : 8192
-    },
     "\/example\/sidebar2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3834,6 +3845,17 @@
       "initialSize" : 4095,
       "fileType" : 4096
     },
+    "\/images\/iconic\/article.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/article.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/article.png",
+      "initialSize" : 3389,
+      "fileType" : 8192
+    },
     "\/images\/iconic\/read_more.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3843,6 +3865,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/read_more.png",
       "initialSize" : 3416,
+      "fileType" : 8192
+    },
+    "\/images\/iconic\/unlock_stroke.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/iconic\/unlock_stroke.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/iconic\/unlock_stroke.png",
+      "initialSize" : 3735,
       "fileType" : 8192
     },
     "\/js\/hoverIntent.js" : {
@@ -3856,28 +3889,6 @@
       "outputAbbreviatedPath" : "\/js\/hoverIntent-ck.js",
       "fileType" : 64
     },
-    "\/images\/iconic\/unlock_stroke.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/unlock_stroke.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/unlock_stroke.png",
-      "initialSize" : 3735,
-      "fileType" : 8192
-    },
-    "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-auger-01-large.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-auger-01-large.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-auger-01-large.jpg",
-      "initialSize" : 346600,
-      "fileType" : 4096
-    },
     "\/images\/iconic\/beaker_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3888,17 +3899,6 @@
       "outputAbbreviatedPath" : "\/images\/iconic\/beaker_alt.png",
       "initialSize" : 3565,
       "fileType" : 8192
-    },
-    "\/images\/Gallery\/thumbnails\/newest4.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest4.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/newest4.jpg",
-      "initialSize" : 78870,
-      "fileType" : 4096
     },
     "\/images\/carousel\/old\/promo04.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3922,16 +3922,16 @@
       "initialSize" : 3367,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/thumbnails\/gallery-equipment-tiller-01-small.jpg" : {
+    "\/images\/iconic\/reload_alt.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-equipment-tiller-01-small.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/reload_alt.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/thumbnails\/gallery-equipment-tiller-01-small.jpg",
-      "initialSize" : 70252,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/images\/iconic\/reload_alt.png",
+      "initialSize" : 3816,
+      "fileType" : 8192
     },
     "\/images\/iconic\/arrow_down_alt1.png" : {
       "ignoreWasSetByUser" : 0,
@@ -3942,17 +3942,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/images\/iconic\/arrow_down_alt1.png",
       "initialSize" : 3844,
-      "fileType" : 8192
-    },
-    "\/images\/iconic\/reload_alt.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/reload_alt.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/reload_alt.png",
-      "initialSize" : 3816,
       "fileType" : 8192
     },
     "\/images\/iconic\/equalizer.png" : {
@@ -3977,15 +3966,15 @@
       "initialSize" : 3910,
       "fileType" : 8192
     },
-    "\/images\/iconic\/umbrella.png" : {
+    "\/images\/prettyPhoto\/facebook\/btnNext.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/iconic\/umbrella.png",
+      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/facebook\/btnNext.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/iconic\/umbrella.png",
-      "initialSize" : 3722,
+      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/facebook\/btnNext.png",
+      "initialSize" : 845,
       "fileType" : 8192
     },
     "\/images\/prettyPhoto\/default\/default_thumb.png" : {
@@ -3999,16 +3988,16 @@
       "initialSize" : 1537,
       "fileType" : 8192
     },
-    "\/images\/prettyPhoto\/facebook\/btnNext.png" : {
+    "\/images\/gallery\/thumbnails\/gallery-stone-driveway-auger-01-small.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/prettyPhoto\/facebook\/btnNext.png",
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-auger-01-small.jpg",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/prettyPhoto\/facebook\/btnNext.png",
-      "initialSize" : 845,
-      "fileType" : 8192
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/gallery-stone-driveway-auger-01-small.jpg",
+      "initialSize" : 86470,
+      "fileType" : 4096
     },
     "\/images\/iconic\/transfer.png" : {
       "ignoreWasSetByUser" : 0,
@@ -4021,15 +4010,26 @@
       "initialSize" : 3595,
       "fileType" : 8192
     },
-    "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-after-01-large.jpg" : {
+    "\/images\/iconic\/umbrella.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-after-01-large.jpg",
+      "inputAbbreviatedPath" : "\/images\/iconic\/umbrella.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/Gallery\/fullResImages\/gallery-stone-driveway-after-01-large.jpg",
-      "initialSize" : 357285,
+      "outputAbbreviatedPath" : "\/images\/iconic\/umbrella.png",
+      "initialSize" : 3722,
+      "fileType" : 8192
+    },
+    "\/images\/gallery\/thumbnails\/newest3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest3.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/gallery\/thumbnails\/newest3.jpg",
+      "initialSize" : 114670,
       "fileType" : 4096
     },
     "\/images\/carousel\/old\/promo03.png" : {
