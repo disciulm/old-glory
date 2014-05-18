@@ -3967,4 +3967,4 @@ input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:f
 .emergency {
   background-color: #eee;
   border-radius: 6px;
-  padding: 10px; }
+  padding: 40px 10px 10px 10px; }
