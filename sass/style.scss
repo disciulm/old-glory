@@ -98,6 +98,11 @@ a {
       color: #3d3d3d;
     }
   }
+
+  &.learn-more {
+    font-size: 1.25em;
+    color: #FFD600;
+  }
 }
 
 strong {
@@ -1154,7 +1159,7 @@ single-portfolio .ps-media {
       border: 0;
     }
     border-bottom: 0px solid #ececec;
-    margin-bottom: 0px;
+    margin-bottom: 50pxpx;
     padding-bottom: 0px;
   }
   .recentfrom {
@@ -4323,9 +4328,44 @@ input {
 .icon-camera {
   postion: absolute;
   margin-right: 1em;
-  vertical-align: -27px !important;
+  vertical-align: -30px !important;
 }
 
 .anchor-spacer {
   margin: 100px;
+}
+
+.row {
+&.services{
+
+  h1 {
+    font-size: 4em;
+    line-height: 1;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  h3 {
+    font-size:2.5em;
+    line-height: 36px;
+    }
+   a {
+    color: #FFD600;
+    font-size: 1.2em;
+   }
+  }
+}
+
+/* Close button on Lightbox - overrides default styles */
+
+a.pp_close {
+  position: absolute;
+  right: -5px !important;
+  top: -5px !important;
+  display: block;
+  line-height: 22px;
+  text-indent: -10000px;
+  z-index: 1000;
+  background: url(../images/icon-close.png) !important;
+  width: 50px !important;
+  height: 50px !important;
 }

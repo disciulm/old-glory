@@ -11,6 +11,7 @@
        <div class="pp_left"></div> \
        <div class="pp_middle"></div> \
        <div class="pp_right"></div> \
+       <a class="pp_close" href="#">Close</a> \
       </div> \
       <div class="pp_content_container"> \
        <div class="pp_left"> \
@@ -18,7 +19,6 @@
         <div class="pp_content"> \
          <div class="pp_loaderIcon"></div> \
          <div class="pp_fade"> \
-          <a href="#" class="pp_expand" title="Expand the image">Expand</a> \
           <div class="pp_hoverContainer"> \
            <a class="pp_next" href="#">next</a> \
            <a class="pp_previous" href="#">previous</a> \
@@ -32,7 +32,6 @@
            </div> \
            <p class="pp_description"></p> \
            <div class="pp_social">{pp_social}</div> \
-           <a class="pp_close" href="#">Close</a> \
           </div> \
          </div> \
         </div> \
